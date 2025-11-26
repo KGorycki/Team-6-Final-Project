@@ -1,4 +1,4 @@
-# Group-6-Final-Project
+# Team-6-Final-Project
 CAP 4630-042: Intro to Artificial Intelligence
 ## Team Members
 - Leah Brafford
