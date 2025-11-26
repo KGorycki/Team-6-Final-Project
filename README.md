@@ -13,6 +13,7 @@ CAP 4630-042: Intro to Artificial Intelligence
 - Users can run the code to upload their own images and view the model’s predictions
 - For best results, run each cell of the code in Google Colab with GPU runtime unless you have an IDE with the needed packages already
 - Feel free to use our model in the repo: cats_vs_dogs_classifier_v4.h5 *or* train your own version!
+- NOTE: model file was too big for repo so here is a download link: https://drive.google.com/file/d/1keClk_TsQZiGlcs1K6vtubokFXDw49Q9/view?usp=sharing
 
 ## Features
 - Custom 4-block CNN built using TensorFlow/Keras
