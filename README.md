@@ -7,7 +7,7 @@ CAP 4630-042: Intro to Artificial Intelligence
 - Elisheva El-Gad
 - Yaser Qazait
 
-## Cat vs. Dog Image Classifier
+## Cat vs. Dog Binary Image Classifier
 - This project implements a binary image classifier that identifies whether an external image contains a cat or a dog
 - We trained a custom Convolutional Neural Network (CNN) using a large Kaggle dataset and evaluated it on the test set
 - Users can run the code to upload their own images and view the model’s predictions
