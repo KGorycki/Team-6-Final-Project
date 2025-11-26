@@ -23,8 +23,10 @@ CAP 4630-042: Intro to Artificial Intelligence
 - Interface for uploading and classifying your own images
 
 ## Dataset
-We used this Cats vs Dogs dataset from Kaggle (Note: dataset too big for repo):
-https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset
+We used this Cats vs Dogs dataset from Kaggle (Note: dataset too big for repo): <br>
+https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset <br>
+Alternative zip download: <br>
+https://drive.google.com/file/d/1MtEeg1hN9n7Zv0eBzggeZhgNaeSfoW6B/view?usp=sharing
 
 ## Code (included in our repository and colab links for clarity):
 - Team6_GP.ipynb
